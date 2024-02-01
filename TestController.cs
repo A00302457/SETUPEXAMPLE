@@ -7,9 +7,18 @@ namespace MyApp.Namespace
     [ApiController]
     public class TestController : ControllerBase
     {
-        public string TestMethod()
+        //  [Route("{x}")]
+       
+        // public string TestMethod([FromQuery]string param = "World!", [FromRoute]int x = 1)
+        public bool TestMethod(string param = "World! ",int x = 1)
         {
-            return "Testing!";
+            
+            string cc = String.Empty;
+            for(int i = 0; i < x; i++)
+            {
+               cc = String.Concat(cc, String.Concat("Hello",param));
+            }
+            return cc.StartsWithUpper();
         }
         public string Get()
         {

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/SETUPEXAMPLE/TestAPI/TestAPI.csproj",
-      "projectName": "TestAPI",
-      "projectPath": "/workspaces/SETUPEXAMPLE/TestAPI/TestAPI.csproj",
+      "projectUniqueName": "/workspaces/SETUPEXAMPLE/commandPattern/commandPattern.csproj",
+      "projectName": "commandPattern",
+      "projectPath": "/workspaces/SETUPEXAMPLE/commandPattern/commandPattern.csproj",
       "packagesPath": "/home/vscode/.nuget/packages/",
-      "outputPath": "/workspaces/SETUPEXAMPLE/TestAPI/obj/",
+      "outputPath": "/workspaces/SETUPEXAMPLE/commandPattern/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vscode/.nuget/NuGet/NuGet.Config"

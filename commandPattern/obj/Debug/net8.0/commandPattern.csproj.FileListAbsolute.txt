@@ -1,0 +1,15 @@
+/workspaces/SETUPEXAMPLE/commandPattern/bin/Debug/net8.0/commandPattern
+/workspaces/SETUPEXAMPLE/commandPattern/bin/Debug/net8.0/commandPattern.deps.json
+/workspaces/SETUPEXAMPLE/commandPattern/bin/Debug/net8.0/commandPattern.runtimeconfig.json
+/workspaces/SETUPEXAMPLE/commandPattern/bin/Debug/net8.0/commandPattern.dll
+/workspaces/SETUPEXAMPLE/commandPattern/bin/Debug/net8.0/commandPattern.pdb
+/workspaces/SETUPEXAMPLE/commandPattern/obj/Debug/net8.0/commandPattern.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/SETUPEXAMPLE/commandPattern/obj/Debug/net8.0/commandPattern.AssemblyInfoInputs.cache
+/workspaces/SETUPEXAMPLE/commandPattern/obj/Debug/net8.0/commandPattern.AssemblyInfo.cs
+/workspaces/SETUPEXAMPLE/commandPattern/obj/Debug/net8.0/commandPattern.csproj.CoreCompileInputs.cache
+/workspaces/SETUPEXAMPLE/commandPattern/obj/Debug/net8.0/commandPattern.sourcelink.json
+/workspaces/SETUPEXAMPLE/commandPattern/obj/Debug/net8.0/commandPattern.dll
+/workspaces/SETUPEXAMPLE/commandPattern/obj/Debug/net8.0/refint/commandPattern.dll
+/workspaces/SETUPEXAMPLE/commandPattern/obj/Debug/net8.0/commandPattern.pdb
+/workspaces/SETUPEXAMPLE/commandPattern/obj/Debug/net8.0/commandPattern.genruntimeconfig.cache
+/workspaces/SETUPEXAMPLE/commandPattern/obj/Debug/net8.0/ref/commandPattern.dll
